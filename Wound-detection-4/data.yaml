@@ -1,0 +1,6 @@
+names:
+- Wound
+nc: 1
+train: ../Wound-detection-4/train/images/
+val: ../Wound-detection-4/valid/images/
+test: ../Wound-detection-4/test/images/
